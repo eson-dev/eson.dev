@@ -90,14 +90,14 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "", city = "Montreal", region = "QC", postcode = "", country = "Canada", country_code = "CA"}
+address = {street = "", city = "Montreal", region = "Quebec", postcode = "", country = "Canada", country_code = "CA"}
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/esonsee"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  ]
+  {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/esonsee"},
+  {icon = "twitter", icon_pack = "fab", name = "Tweeter", link = "https://twitter.com/esonsee"},
+]
 
 ############################
 ## Social
