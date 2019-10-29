@@ -95,8 +95,7 @@ address = {street = "", city = "Montreal", region = "Quebec", postcode = "", cou
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "https://www.linkedin.com/in/esonsee"},
-  {icon = "twitter", icon_pack = "fab", name = "Tweeter", link = "https://twitter.com/esonsee"},
+  {icon = "twitter", icon_pack = "fab", name = "Tweet Me", link = "https://twitter.com/esonsee"},
 ]
 
 ############################
