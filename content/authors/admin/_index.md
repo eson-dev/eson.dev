@@ -10,13 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Software Developer
+role: Software Developer
 
 # Organizations/Affiliations
 organizations: []
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ""
 
 interests: []
 
@@ -40,12 +40,13 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/esonsee
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/esonsee
 - icon: github
   icon_pack: fab
   link: https://github.com/eson-dev
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/esonsee
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -60,4 +61,8 @@ email: ""
 user_groups: []
 ---
 
-Eson See is a software developer with more than 10 years of professional experience. He is currently working at Ubisoft Montreal as a senior online programmer.
+I am a software developer with more than 10 years of professional experience.
+
+In 2007, I started my career developing business applications using ASP.NET. With a strong interest in video games, I completed a part-time specialist diploma in games development. In 2011, I brought my expertise in enterprise software and began my journey in the video game industry, building tools and services to support the ever growing needs of Games as a service (GaaS).
+
+I am currently based in Montreal and work at Ubisoft as a senior online programmer.
