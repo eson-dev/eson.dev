@@ -2,10 +2,10 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Professional Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,39 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Senior Online Programmer"
+  company = "Ubisoft Montreal"
+  company_url = "https://montreal.ubisoft.com/"
+  location = "Montreal, Quebec, Canada"
+  date_start = "2017-05-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Senior Programmer"
+  company = "Ubisoft Singapore"
+  company_url = "https://www.ubisoft.com/en-US/studio/singapore.aspx"
+  location = "Singapore"
+  date_start = "2011-08-01"
+  date_end = "2017-04-30"
+  description = """"""
+
+[[experience]]
+  title = "Senior Application Consultant"
+  company = "NCS Pte Ltd"
+  company_url = "https://www.ncs.com.sg/"
+  location = "Singapore"
+  date_start = "2009-10-01"
+  date_end = "2011-08-01"
+  description = """"""
+
+[[experience]]
+  title = "Software Engineer"
+  company = "I-Access Solutions Pte Ltd"
+  company_url = "http://www.i-access.com.sg/"
+  location = "Singapore"
+  date_start = "2007-04-01"
+  date_end = "2009-10-01"
+  description = """"""
 
 +++
