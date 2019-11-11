@@ -85,7 +85,7 @@ privacy_pack = false
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "eson.see@gmail.com"
+email = ""
 phone = ""
 
 # Address
