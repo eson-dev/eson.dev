@@ -24,10 +24,10 @@ education:
   courses:
   - course: BEng in Computer Engineering
     institution: Nanyang Technological University
-    year: 2007
+    year: 
   - course: Specialist Diploma in Games Development
     institution: Nanyang Polytechnic
-    year: 2011
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
