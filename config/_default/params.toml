@@ -90,7 +90,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "", city = "Montreal", region = "Quebec", postcode = "", country = "Canada", country_code = "CA"}
+address = {}
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
