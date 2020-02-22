@@ -101,7 +101,7 @@ contact_links = []
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "screenshot-alpha.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "esonsee"
@@ -123,6 +123,9 @@ list_delimiter = ", "
 ############################
 ## Advanced
 ############################
+
+# Main menu alignment (l = left, c = center, r = right) and logo options.
+main_menu = {align = "l", show_logo = true}
 
 # Get user avatars from Gravatar.com? (true/false)
 gravatar = false
