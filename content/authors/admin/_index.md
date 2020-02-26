@@ -66,6 +66,8 @@ user_groups: []
 
 I am a software developer with more than 10 years of professional experience.
 
-In 2007, I started my career developing business applications using ASP.NET. With a strong interest in video games, I completed a part-time specialist diploma in games development. In 2011, I brought my expertise in enterprise software and began my journey in the video game industry, building tools and services to support the ever growing needs of Games as a service (GaaS).
+In 2007, I started my career as a software engineer. For a few years, I developed several business applications in .NET for the education and healthcare industries. 
 
-I am currently based in Montreal and work at Ubisoft as a senior online programmer.
+With a strong interest in video games, I enrolled in a part-time specialist diploma in games development and completed a mini game project on the PlayStation 3. In 2011, I brought my expertise in enterprise software and began my journey in the video game industry, building tools and services to support the ever growing needs of Games as a Service (GaaS).
+
+I am currently based in Montreal, Canada and work at Ubisoft Entertainment as a senior online programmer.
