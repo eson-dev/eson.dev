@@ -71,3 +71,5 @@ In 2007, I started my career as a software engineer. For a few years, I develope
 With a strong interest in video games, I enrolled in a part-time specialist diploma in games development and completed a mini game project on the PlayStation 3. In 2011, I brought my expertise in enterprise software and began my journey in the video game industry, building tools and services to support the ever growing needs of Games as a Service (GaaS).
 
 I am currently based in Montreal, Canada and work at Ubisoft Entertainment as a senior online programmer.
+
+:coffee: [Donate me a coffee](https://paypal.me/EsonSee)
