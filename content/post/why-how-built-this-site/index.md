@@ -1,5 +1,6 @@
 ---
 title: Why and How I Built This Website
+summary: An introduction on why I decided to build my own website and the tech I used.
 date: "2020-02-20"
 tags:
 - Tech

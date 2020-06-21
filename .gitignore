@@ -1,4 +1,12 @@
-public/
 .idea/
-_gen/
 .vscode/
+
+### Hugo ###
+# Generated files by hugo
+/public/
+/resources/_gen/
+
+# Executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux

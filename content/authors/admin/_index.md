@@ -72,4 +72,4 @@ With a strong interest in video games, I enrolled in a part-time specialist dipl
 
 I am currently based in Montreal, Canada and work at Ubisoft Entertainment as a senior online programmer.
 
-:coffee: [Donate me a coffee](https://paypal.me/EsonSee)
+:coffee: [Buy me a coffee](https://paypal.me/EsonSee)
