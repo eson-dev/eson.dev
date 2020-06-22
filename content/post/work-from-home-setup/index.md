@@ -30,20 +30,20 @@ For the displays, I have two Dell monitors with a [24" U2417H](https://amzn.to/3
 :bulb: Tip: Workspace ergonomics suggests that the main monitor should be placed at the center with about an arm's length away from the body, instead of a `/\` shape.
 
 :bulb: Tip: You can use both screens for Remote Desktop by checking the "Use all my monitors for the remote session" box.
-![](rdp-all-monitors.png)
+![Remote Desktop Use all monitors](rdp-all-monitors.png)
 
 To maximize space, I bought two [Fitueyes Monitor Risers](https://amzn.to/2V3zOYR) which not only allow me to set the monitors on eye level, but also to slot in the keyboard and mouse under it whenever I need more space.
 
 For typing, I am using the [Cougar 600K Mechanical Gaming Keyboard](https://cougargaming.com/products/discontinue_keyboards/600k/). Its simple design takes away the unnecessary gaming function keys and gets the job done. It is using Cherry MX Blue mechanical switches so there is the unavoidable clicking sound during typing. (My Logitech G710+ keyboard with less noisy MX Brown switches is still stuck in the office, unfortunately :sweat:)
 
-![](cougar-600k.jpg)
+![Cougar 600K Mechanical Gaming Keyboard](cougar-600k.jpg)
 
 The mouse and headphones are two new additions to my setup, bought during this WFH period, to replace their predecessors which were not as comfortable. 
 
 The [Logitech G203](https://amzn.to/2V6OTZt) has a simple design and works comfortably for my hand size. The side buttons are always a *must* to me because they allow me to easily navigate back and forward (in browser, explorer, IDE etc.). It also has a light that changes color (configurable).
 [![Logitech G203 Gaming Mouse](logitech-g203.jpg)](https://amzn.to/2V6OTZt)
 
-The [Vankyo CM7000 Gaming Headset](https://amzn.to/3dkYv9n) has an noise-canceling microphone that is 360° adjustable. It allows me to speak much clearly during calls. As a plus point, it can also be plugged into a PS4 controller.
+The [Vankyo CM7000 Gaming Headset](https://amzn.to/3dkYv9n) has a noise-canceling microphone that is 360° adjustable. It allows me to speak much clearly during calls. As a plus point, it can also be plugged into a PS4 controller.
 
 [![Vankyo CM7000 Gaming Headset](vankyo-cm7000.jpg)](https://amzn.to/3dkYv9n)
 
