@@ -54,7 +54,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
 #   icon_pack: ai
-#   link: files/cv.pdf
+#   link: "files/Eson See.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,3 +73,5 @@ With a strong interest in video games, I enrolled in a part-time specialist dipl
 I am currently based in Montreal, Canada and work at Ubisoft Entertainment as a senior online programmer.
 
 :coffee: [Buy me a coffee](https://paypal.me/EsonSee)
+
+:page_facing_up: [View my resume](files/Eson%20See.pdf)
