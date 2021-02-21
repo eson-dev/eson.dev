@@ -9,6 +9,7 @@ tags:
 
 image:
   placement: 1
+  preview_only: true
 ---
 
 Working from home has become the *new normal* as the global COVID-19 pandemic situation continues. Apart from work, we are also using video calls more and more to stay in touch with friends and family.
@@ -21,7 +22,11 @@ I decided to buy a [collapsible Chromakey background](https://www.amazon.ca/gp/p
 
 ![Collapsible green screen](green-screen.jpg)
 
-To improve video quality, I've also upgraded to a [Logitech Brio](https://www.logitech.com/en-ca/products/webcams/brio-4k-hdr-webcam.960-001105.html), and I'm very happy with the image quality. Furthermore, this is also one of the few webcams which support Windows Hello Face sign in. See how it works:
+To improve video quality, I've also upgraded to a [Logitech Brio](https://www.logitech.com/en-ca/products/webcams/brio-4k-hdr-webcam.960-001105.html), and I'm very happy with the image quality. (It also comes with an attachable privacy shutter)
+
+![Logitech Brio](logitech-brio.jpg)
+
+Furthermore, this is also one of the few webcams which support Windows Hello Face sign in. See how it works:
 
 {{< youtube 9YjiZjWttWQ >}}
 <br/>
@@ -36,7 +41,7 @@ Next, add an image or media source (video) to the scene in OBS and they will be 
 ![OBS Scene with Image and Media](obs-scene.jpg)
 
 How it looks with a static image (of Singapore :singapore:):
-![OBS Screenshot](obs-image.png)
+![OBS Screenshot](featured.png)
 
 For some extra fun, download a loopable short video online and let it play in loop:
 
